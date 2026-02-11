@@ -9,7 +9,7 @@ import DrizzleIcon from './assets/drizzle.png'
 import CloudIcon from './assets/cloud.png'
 import RainIcon from './assets/rain.png'
 import SnowIcon from './assets/snow.png'
-import HumidityIcon from './assets/Humidity.png'
+import HumidityIcon from './assets/humidity.png'
 import WindIcon from './assets/wind.png'
 
 const WeatherDetails = ({icon, temp, city, country, lat, log, humidity, wind}) => {
